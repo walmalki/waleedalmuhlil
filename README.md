@@ -1,2 +1,2 @@
 # port_website
-Creating a new website.
+This is a repository of a new website.
